@@ -1,6 +1,6 @@
 # tewhatuora.fhir.template
 
-Te Whatu Ora themed template for FHIR IGs. 
+Template for FHIR IGs based on Te Whatu Ora branding guidelines.
 
 ## Instructions
 
