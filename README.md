@@ -19,7 +19,7 @@ Anything added to the template directory will be added/replaced to the base temp
 ## OpenAPI Viewer
 When this template is used to publish an IG using the `https://fhir-ig.health.digital.nz` publishing infrastructure, an OpenAPI UI can be included as a page in the IG. The requirements to enable this behaviour are
 - use this template
-- provide a valid OpenAPI specification, as part of the website at `assets/openapi.yaml`
+- provide a valid OpenAPI specification, as part of the website at `/openapi.yaml`
 - provide a page in the IG that includes a div with an id of `swagger-ui`
 
 e.g. `input/pagecontent/openapi.xml`
