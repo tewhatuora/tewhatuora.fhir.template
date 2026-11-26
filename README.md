@@ -4,7 +4,7 @@ Template for FHIR IGs based on Te Whatu Ora branding guidelines.
 
 ## Instructions
 
-1. Update the template line in igi.ini to: `template = https://github.com/tewhatuora/tewhatuora.fhir.template`
+1. Update the template line in your IG's igi.ini file to: `template = https://github.com/tewhatuora/tewhatuora.fhir.template`
 
 ### logos and customisation
 
